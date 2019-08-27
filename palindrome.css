@@ -1,0 +1,37 @@
+.overall {
+  position: relative;
+  text-align: center;
+}
+
+#title {
+  margin: 50px 200px;
+  padding: 30px 10px;  
+  background-color: pink;
+  font-family: "Livvic";
+  font-size: 45px;
+  color: white;
+}
+
+#word {
+  width: 360px;
+  height: 50px;
+  display:inline;
+  border: 2px solid pink;
+  margin-top: 5px;
+  margin-bottom: 30px;
+  padding: 4px;
+  font-family: "Livvic";
+  font-size: 30px;
+  text-align: center;
+  
+}
+
+#submit {
+  background-color: white;
+  border: 2px solid RGB(40, 185, 252); /*blue*/
+  width: 100px;
+  height: 40px;
+  font-size: 20px;
+  font-family: "Livvic";
+  color: RGB(40, 185, 252);
+}
